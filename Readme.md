@@ -80,7 +80,7 @@ This project integrates WebSocket functionality to provide real-time flight stat
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/websocket-flight-status.git
+   git clone https://github.com/gotravelx/Client-app-ws
    ```
 2. Navigate to the project directory:
    ```sh
@@ -105,6 +105,15 @@ This project integrates WebSocket functionality to provide real-time flight stat
 4. View real-time updates in the UI.
 
 ---
+
+## Conclusion
+
+- This implementation ensures efficient real-time communication between users and the flight status blockchain service using WebSockets. It is scalable, secure, and reliable, meeting modern application standards for real-time data delivery.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 ## License
 
