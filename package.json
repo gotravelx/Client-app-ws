@@ -1,0 +1,21 @@
+{
+  "name": "flight-blockchain-api",
+  "version": "1.0.0",
+  "description": "API for Flight Blockchain Service with WebSocket support",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "ethers": "^5.7.2",
+    "express": "^5.1.0",
+    "helmet": "^8.1.0",
+    "ws": "^8.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
